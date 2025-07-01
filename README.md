@@ -10,7 +10,6 @@ This project investigates rider behavior using real-world bike-sharing data from
 ## 📊 Tools Used
 - SQL (BigQuery)
 - Tableau
-- Python (optional)
 
 ## 📈 Key Findings
 - Casual riders peak in summer and near tourist areas
