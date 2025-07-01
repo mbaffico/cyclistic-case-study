@@ -1,6 +1,6 @@
 # cyclistic-case-study
 
-This project investigates rider behavior using real-world bike-sharing data from Divvy (via Kaggle), to help the fictional company Cyclistic convert casual riders into annual members.
+This project investigates rider behavior using real-world bike-sharing data from Divvy, to help the fictional company Cyclistic convert casual riders into annual members.
 
 ## 🔍 Objectives
 - Understand temporal and spatial ride patterns
